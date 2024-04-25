@@ -121,8 +121,8 @@ class Face_detect_crop:
     
     
     def get_bboxes(self, img, max_num=0):
-        bboxes, kpss = self.det_model.detect(img,
+        bboxes = self.det_model.detect(img,
                                             threshold=self.det_thresh,
                                             max_num=max_num,
                                             metric='default')
-        return bboxes,kpss
+        return bboxes
