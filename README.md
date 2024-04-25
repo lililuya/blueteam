@@ -1,6 +1,7 @@
 # 😙Blueteam👍
-some script for process data
-🤔 ❓ 
+some script for process data 🤔 ❓ 
+
+![Language](https://img.shields.io/badge/language-python-blueviolet)  ![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen)
 ## 1. Step pipeline scripts
 
 ### 1.1 Crop the video
