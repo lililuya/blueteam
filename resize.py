@@ -2,6 +2,7 @@ import cv2
 import os
 from tqdm import tqdm
 
+# This script is intented to resize the video frames
 path = r"E:\blueteam\seleted_73_part1"
 out_dir = r"E:\blueteam\seleted_73_part1_resize"
 image_path_list = os.listdir(path)
