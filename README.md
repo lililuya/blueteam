@@ -1,6 +1,6 @@
-# Blueteam
+# Blueteam👍
 some script for process data
-
+🤔 ❓ 
 ## 1. Step pipeline scripts
 
 ### 1.1 Crop the video
