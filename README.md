@@ -1,5 +1,5 @@
 # 😙Blueteam👍
-some script for process data 🤔 ❓ 
+some script for process data ❓ 
 
 ![Language](https://img.shields.io/badge/language-python-blueviolet)  ![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen)
 ## 1. Step pipeline scripts
@@ -17,7 +17,7 @@ some script for process data 🤔 ❓
 
 ### 1.2 Select the suitable cropped frames
 
-+ How to choose?
++ How to choose? 🤔 
   + No blink
   + Widen eyes
   + Motion in time sequence
@@ -31,7 +31,7 @@ The result is located in **out_dir**
 
 ### 1.3 Resize the selected frames 
 
-+ Why?
++ Why? 🤔 
   +  Fit the screen for playback
 + Use the script as following:
   + Modify the parameters
