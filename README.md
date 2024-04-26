@@ -57,5 +57,5 @@ The result is located in **out_dir**
 
 + Modify parameters
   + as mentioned before
-+ `python whole_pipeline_process`
++ `python whole_pipeline_process.py`
 
